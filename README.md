@@ -9,6 +9,5 @@ You can play with either the keyboard (wasd and arrow keys) or with the controll
 
 ## Architecture
 There is one main view in which the game runs. There are seprate views for every menu.
-
 There is one controller. It renders the game model to the view. 
 Every player has it's own model, as well as the puck.
